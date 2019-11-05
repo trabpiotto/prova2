@@ -1,0 +1,63 @@
+﻿.bg-color {
+    
+    background-image: url(../css/somed.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+
+}
+a{
+    text-decoration:none !important;
+    color:white !important;
+}
+body {
+    padding: 0 50px 0 50px;
+    background-color: #6af693;
+    
+}
+p{
+    font-size: 13px;
+    font-weight: 700;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: -40px;
+}
+.frmCadastro {
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 400px;
+    display: block;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 30px;
+    margin-top: 15vh;
+    text-align: center;
+}
+.area-form{
+    height: 70vh;
+}
+.frmLine{
+    margin-bottom: 5px;
+}
+.button {
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 16px;
+    color: black;
+    background-color: #6af693;
+    font-weight: 700;
+}
+.textArea2 {
+    resize: none;
+    width: 350px;
+}
+.textArea{
+    resize: none;
+    height: 60px;
+    width: 350px;
+}
+.label{
+    width: 500px;
+}

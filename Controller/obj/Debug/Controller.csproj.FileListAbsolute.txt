@@ -1,0 +1,81 @@
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\joao.piotto\source\repos\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\joao.piotto\source\repos\Aula06\Controller\obj\Debug\Controller.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\Controller\obj\Debug\Controller.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Controller.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Controller.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Model.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Model.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.pdb
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Controller.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Controller.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Model.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\MySql.Data.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Google.Protobuf.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Renci.SshNet.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\Model.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\bin\Debug\MySql.Data.xml
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\Controller\obj\Debug\Controller.pdb

@@ -1,0 +1,400 @@
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\View.dll.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\View.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\View.pdb
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csc.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csi.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Controller.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Model.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\MySql.Data.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Controller.pdb
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Model.pdb
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joao.piotto\source\repos\Aula06\View\bin\MySql.Data.xml
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.dll
+C:\Users\joao.piotto\source\repos\Aula06\View\obj\Debug\View.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\View.dll.config
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\View.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\View.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\csc.exe
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\csi.exe
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Controller.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Model.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\MySql.Data.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Controller.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Model.pdb
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\bin\MySql.Data.xml
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\obj\Debug\View.dll
+C:\Users\Firyn\Desktop\Facul\Exemplo Crud Completo\Aula06\View\obj\Debug\View.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\View.dll.config
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\View.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\View.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\csc.exe
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\csi.exe
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Controller.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Model.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\MySql.Data.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Controller.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Model.pdb
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\bin\MySql.Data.xml
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\obj\Debug\View.dll
+C:\Users\leohe\Desktop\Exemplo Crud Completo\Aula06\View\obj\Debug\View.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\View.dll.config
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\View.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\View.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.exe
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.exe.config
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.rsp
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.exe
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.exe.config
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.rsp
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Console.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.exe
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.exe.config
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.rsp
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Controller.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Model.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\MySql.Data.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Google.Protobuf.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Renci.SshNet.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Controller.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Model.pdb
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\bin\MySql.Data.xml
+C:\DEV\Visual Studio 2019\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\View.dll.config
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\View.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\View.pdb
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.exe
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.exe
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Controller.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Model.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\MySql.Data.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Controller.pdb
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Model.pdb
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\bin\MySql.Data.xml
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.dll
+C:\Users\pedro\Desktop\1.1\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\View.dll.config
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\View.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\View.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.exe
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.exe.config
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csc.rsp
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.exe
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.exe.config
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\csi.rsp
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.AppContext.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Console.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.Compression.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Claims.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Threading.Thread.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.ValueTuple.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.exe
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.exe.config
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\vbc.rsp
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\VBCSCompiler.exe
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Controller.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Model.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\MySql.Data.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Google.Protobuf.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\BouncyCastle.Crypto.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Renci.SshNet.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Controller.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Model.pdb
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\bin\MySql.Data.xml
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.dll
+C:\Users\PedroDiniz\Desktop\Exemplo Crud Completo Web\Exemplo Crud Completo Web\Aula06\View\obj\Debug\View.pdb
